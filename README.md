@@ -7,7 +7,7 @@ First-  you will need to create a databade in MySQL using provided schema in DB 
 
 Second- please run the command "npm i" in your terminal. This will install our dependencies. 
 
-Third- in your terminal, please run "npm run seed" to see your database. Followed by the command "npm start"
+Third- in your terminal, please run the command "npm run seed" to see your database. Followed by the command "npm start"
 
 ## In Insomnia:
 

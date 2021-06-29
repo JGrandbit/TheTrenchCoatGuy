@@ -5,9 +5,9 @@ E-Commerce
 
 First-  you will need to create a databade in MySQL using provided schema in DB folder
 
-Second- in your terminal, please run "npm run seed" to see your database
+Second- please run the command "npm i" in your terminal. This will install our dependencies. 
 
-Third- also in your terminal, please run "npm start"
+Third- in your terminal, please run "npm run seed" to see your database. Followed by the command "npm start"
 
 ## In Insomnia:
 
